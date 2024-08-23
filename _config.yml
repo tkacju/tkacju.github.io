@@ -1,0 +1,57 @@
+title: Juraj
+author: Juraj
+url: "https://tkacju.github.io"
+language: "en"
+
+logo: /assets/img/logo.jpeg
+description: Trvalé bydliště mých poznámek a článků o rozličných tématech
+show_downloads: false
+color-scheme: dark
+date-format: "%B %d %Y"
+permalink: /:categories/:title
+
+sidebar:
+  - name: Home
+    icon: <i class="fa-solid fa-home"></i>
+    link: /
+  - name: About
+    icon: <i class="fa-solid fa-circle-info"></i>
+    link: /about/
+  - name: Articles
+    icon: <i class="fa-solid fa-newspaper"></i>
+    link: /articles/
+  - name: Reference
+    icon: <i class="fa-solid fa-paper-plane"></i>
+    link: /references/
+  - name: Repository
+    icon: <i class="fa-sharp fa-solid fa-code"></i>
+    link: https://github.com/MatejHosek/MatejHosek.github.io/
+  - name: Atom feed
+    icon: <i class="fa-solid fa-rss"></i>
+    link: /feed.xml
+
+
+
+################################################################################
+
+defaults:
+  # Posts defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+
+
+plugins:
+  - jektex
+
+
+jektex:
+  cache_dir: ".jekyll-cache"
+  ignore: ["*.xml"]
+  silent: false
+  macros:
+    - ["\\Q", "\\mathbb{Q}"]
+    - ["\\C", "\\mathbb{C}"]
+
