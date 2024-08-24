@@ -1,20 +1,22 @@
 ---
-title: "O mně"
+title: "About me"
 layout: default
 permalink: "/about/"
 ---
 
-# Ahoj, jmenuji se Matěj!
+# My name is Juraj Tkáč
 
-Pocházím z Ostravy, kde také studuji osmileté gymnázium. Ve svém volném čase se věnuji astronomii, informatice a přírodním vědám. Poslední dobou si i více a více hraju s 3D tiskem.
+I am originally from Slovakia, but I have been living in the Czech Republic since my early years. I am currently studying at Charles University in Prague, specializing in Chemistry and Physics of Materials. 
 
-Baví mě trávit čas v přírodě, čundrovat a hrát šifrovací hry. Rád ale taky provětrám kolo nebo si zahraju badminton.
+I like sport, reading and learning. 
 
-## Kde mě najdete?
+## Where you can find me?
 
-- Email: <matthy.hosek@gmail.com>
-- Github: [MatejHosek](https://github.com/MatejHosek)
+- Email: <jurajtkac.junior@gmail.com>
+- Github: [MatejHosek](https://github.com/tkacju)
+- LinkedIn: <www.linkedin.com/in/juraj-tkáč-600639289>
+- instagram: <https://www.instagram.com/juraj_tkac/>
 
-## O mém blogu
+## About my blog
 
-Zde najdete mé poznámky ze školy, odkazy na zajímavé lidi/akce a články o tom, co mě zrovna zajímalo (až tedy nějaké napíšu).
+There you can find my remarks on the topics of science, school and things in general. 
