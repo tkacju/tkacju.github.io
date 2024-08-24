@@ -14,8 +14,8 @@ I like sport, reading and learning.
 
 - Email: <jurajtkac.junior@gmail.com>
 - Github: [JurajTkáč](https://github.com/tkacju)
-- LinkedIn: <www.linkedin.com/in/juraj-tkáč-600639289>
-- instagram: <https://www.instagram.com/juraj_tkac/>
+- LinkedIn: [JurajTkáč](www.linkedin.com/in/juraj-tkáč-600639289)
+- instagram: [JurajTkáč](https://www.instagram.com/juraj_tkac/)
 
 ## About my blog
 
