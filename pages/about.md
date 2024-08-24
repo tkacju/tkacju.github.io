@@ -13,7 +13,7 @@ I like sport, reading and learning.
 ## Where you can find me?
 
 - Email: <jurajtkac.junior@gmail.com>
-- Github: [MatejHosek](https://github.com/tkacju)
+- Github: [JurajTkáč](https://github.com/tkacju)
 - LinkedIn: <www.linkedin.com/in/juraj-tkáč-600639289>
 - instagram: <https://www.instagram.com/juraj_tkac/>
 
