@@ -12,9 +12,9 @@
 				<li>
 			<b>
 				{%- if post.collection == "notes" -%}
-					<a href="/notes/">Poznámky</a>
+					<a href="/notes/">Notes</a>
 				{%- elsif post.collection == "posts" -%}
-					<a href="/articles/">Články</a>
+					<a href="/articles/">Articles</a>
 				{%- else -%}
 					{{- post.collection -}}
 				{%- endif -%}
