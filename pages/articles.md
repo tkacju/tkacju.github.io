@@ -1,10 +1,10 @@
 ---
-title: "Články"
+title: "Articles"
 layout: default
 permalink: "/articles/"
 ---
 
-# Články
+# Articles
 
 <div>
 	{% for post in site.articles %} 
