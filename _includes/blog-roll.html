@@ -22,7 +22,7 @@
 				</li>
 				<li><p class="date">{{ post.date | date: "%B %e, %Y" }}</p></li>
 			</ul>
-			<p>{{ post.content | strip_html | truncatewords: 50 }} <a href="{{- post.url -}}">Číst dále</a></p>
+			<p>{{ post.content | strip_html | truncatewords: 50 }} <a href="{{- post.url -}}">Read further</a></p>
 		</div>
 	{%- endfor %}
 </div>
