@@ -25,7 +25,7 @@ sidebar:
     link: /references/
   - name: Repository
     icon: <i class="fa-sharp fa-solid fa-code"></i>
-    link: https://github.com/MatejHosek/MatejHosek.github.io/
+    link: https://github.com/tkacju/tkacju.github.io/
   - name: Atom feed
     icon: <i class="fa-solid fa-rss"></i>
     link: /feed.xml
